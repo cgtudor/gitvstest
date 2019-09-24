@@ -6,7 +6,7 @@ namespace GitVisualStudioTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("MS VS is awesome!");
         }
     }
 }
